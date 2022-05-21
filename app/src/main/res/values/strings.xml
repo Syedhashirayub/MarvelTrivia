@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+
+    <string name="iron_man">Iron Man</string>
+    <string name="hawkeye">Hawkeye</string>
+    <string name="drax">Drax</string>
+    <string name="captain_america">Captain America</string>
+    <string name="what_is_the_name_of_the_marvel_superhero_shown_in_the_picture">What is the name of the Marvel superhero shown in the picture?</string>
+</resources>
